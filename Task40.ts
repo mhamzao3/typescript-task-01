@@ -1,13 +1,13 @@
 //  object creation 
 let album1={
-    artist_name:"Rocky",
-    album_title:"KGF2"
+    artist_name:"SHAHRUK KHAN",
+    album_title:"DUNKI"
 
 }
 
 let album2={
-    artist_name:"Salman Khan",
-    album_title:"Tiger zinda h ",
+    artist_name:"SHAHID KAPOOR",
+    album_title:"TERI BATOAN MAI AESA ULJHA JIA",
    
 }
 
