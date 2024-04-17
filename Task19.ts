@@ -1,4 +1,4 @@
 export let age:number | string;
 age=12;
-age="Nazir"
+age="Muhammad"
 console.log(age)
