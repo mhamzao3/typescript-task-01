@@ -1,4 +1,4 @@
-let f_name:string='Nazir ali baba  Rizwan';
+let f_name:string='Muhammad Hamza ';
 //1st 
 console.log(f_name.toLowerCase())
 //2nd
@@ -12,7 +12,7 @@ const newName = f_name.split(" ").map((value: string) =>
  let list1:number[]=[1,2,34];
  let list2:Array<number>=[1,2,3,4];
 
- let person1:[string,number]=["nazir",22]
+ let person1:[string,number]=["Hamza",22]
 
 
  let myvariable:unknown=10;
