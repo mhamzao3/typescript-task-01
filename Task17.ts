@@ -1,13 +1,13 @@
 // change program Task16.ts 
 //  expand this 
-let friend_ne =["Mohsin","nazir","tahun","rizwan"];
+let friend_ne =["Rafeeq","Sami","Sarim","Hamza"];
 //  add start index first 
-// friend_ne.splice(0,0,"nazir")
-// friend_ne.splice(2,0,"rizwan")
-// friend_ne.push("imran")
+// friend_ne.splice(0,0,"Muhammad")
+// friend_ne.splice(2,0,"Hamza")
+// friend_ne.push("Sarim")
 let show_new:boolean=true;
 
-// var index = friend_ne.indexOf('tahun');
+// var index = friend_ne.indexOf('Sami');
 // console.log(index)
 let index= friend_ne.length;
 console.log(index)
