@@ -1,6 +1,6 @@
 // Name =Nazir 
-// Today Date = 12/7/2023
-const friend_list:string[]=["Mohsin","Bilal","Ali"];
+// Today Date = 4/6/2024
+const friend_list:string[]=["Rafeeq","Sami","Ali"];
 
 //  accss one element of list
 console.log(friend_list)
