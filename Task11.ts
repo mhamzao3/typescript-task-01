@@ -1,4 +1,4 @@
-// Name =Nazir 
+// Name =Muhammad
 // Today Date = 4/6/2024
 const friend_list:string[]=["Rafeeq","Sami","Ali"];
 
